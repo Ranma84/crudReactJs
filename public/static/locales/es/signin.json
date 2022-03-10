@@ -1,0 +1,12 @@
+{
+  "title": "Login",
+  "subtitle": "Para seguir usando tu cuenta",
+  "emailAddress": "Dirección Email",
+  "password": "Password",
+  "signinButton": "Ingresar",
+  "haveAccount?": "¿Aún no tienes una cuenta?",
+  "createAccount": "Crear cuenta!",
+  "falta_datos":"Email y Password son requeridos",
+  "falla_login":"Email o Password incorrecto",
+  "noauthorization":"No Autorización"
+}

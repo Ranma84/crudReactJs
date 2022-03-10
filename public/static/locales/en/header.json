@@ -1,0 +1,21 @@
+{
+  "search": "Search dashboard",
+  "stickyHeader": "Sticky Header",
+  "stickySidebar": "Sticky Sidebar",
+  "collapsed": "Collapsed",
+  "fullscreen": "Fullscreen",
+  "rtl": "RTL",
+  "darkMode": "Manual dark mode",
+  "autoDarkMode": "Device based auto dark mode",
+  "sidebarColor": "Sidebar Color",
+  "notifications": "Notifications",
+  "activity": "Activity",
+  "yourProfile": "Your Profile",
+  "settings": "Settings",
+  "signOut": "Sign Out",
+  "english":"English (UK)",
+  "hindi":"हिन्दी",
+  "french":"français",
+  "arabic":"العربية",
+  "chinese": "简体中文"
+}
